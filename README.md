@@ -1,5 +1,5 @@
 # 🚀 Automated Remote Job Scraper
-A robust Python-based web scraper designed to extract the latest Full-Stack Programming opportunities from We Work Remotely. This tool is fully automated to run daily, ensuring you never miss a new job posting.
+A robust Python-based web scraper designed to extract the latest Full-Stack Programming opportunities from [We Work Remotely](https://weworkremotely.com/categories/remote-full-stack-programming-jobs). This tool is fully automated to run daily, ensuring you never miss a new job posting.
 
 ## ✨ Features
 
